@@ -1,14 +1,4 @@
-# Enunciado:
-Se desea armar una API que permita:
+Ejecutar migraciones (php artisan migrate)
+BD utilizada: Postgresql
 
-Consumir PokeApi para obtener y guardar una lista de 15 Pokemones.
-
-Crear y listar equipos de hasta 3 pokemones, el equipo tiene que estar vinculado a un entrenador.
-
-Crear, listar y detallar entrenadores.  El detalle del entrenador deberá poseer la lista de los equipos que lidera.
-
-# Info Adicional:
-
-PokeAPI (https://pokeapi.co/)
-
-Archivo con la base de datos a utilizar dump.sql
+Peticiones via postman -> https://www.postman.com/orange-space-879996/workspace/pokeapi/collection/25123200-66e4e467-301b-4233-ac84-1d91bcd4d2ef?action=share&creator=25123200
